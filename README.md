@@ -31,6 +31,10 @@ docker run --rm -it submissions:latest <id> <cookie> <font>
 > For live data, just use the above command prefixed with `watch -t` (by
 > default this is updated every 2 seconds).
 
+## How it looks
+
+![picture of ascii art of submissions](https://github.com/scc365/submissions/blob/1d21060e6dcaab0d1f14ae50f0f8ab9b0896adb2/sub.jpeg)
+
 ---
 
 This is all super jank. If you are reading this, too late, fixing this is your
